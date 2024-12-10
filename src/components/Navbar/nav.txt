@@ -1,0 +1,5 @@
+            <div className="w-7 cursor-pointer">
+                <ul>
+                    <img src={Cart} alt="Cart"/>
+                </ul>
+            </div>

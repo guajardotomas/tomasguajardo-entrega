@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.nav{
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.8%);
+    backdrop-filter: saturate(180%) blur(20px);
+    position: fixed;
+    z-index: 9999;
+}
+
+
+
