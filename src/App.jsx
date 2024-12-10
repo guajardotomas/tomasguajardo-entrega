@@ -2,12 +2,12 @@ import './App.css'
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar.jsx";
 import Home from "./components/Home/Home.jsx";
-import Footer from "./Components/Footer/Footer.jsx";
-import Contact from "./Components/Contact/Contact.jsx";
-import ProductPage from "./Components/Products/Products.jsx";
-import ItemDetail from './Components/ItemDetail/ItemDetail.jsx';
-import Account from './Components/Account/Account.jsx';
-import ProductsCategory from './Components/Category/Category.jsx';
+import Footer from "./components/Footer/Footer.jsx";
+import Contact from "./components/Contact/Contact.jsx";
+import ProductPage from "./components/Products/Products.jsx";
+import ItemDetail from "./components/ItemDetail/ItemDetail.jsx";
+import Account from "./components/Account/Account.jsx";
+import ProductsCategory from "./components/Category/Category.jsx";
 import CartProvider from './components/Cart/CartContext.jsx';
 import CartPage from "./components/Cart/Cart.jsx";
 
